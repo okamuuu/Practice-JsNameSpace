@@ -1,0 +1,8 @@
+SYNOPSYS
+
+    git clone git@github.com:okamuuu/Practice-JsNameSpace.git
+    sh script/jstestdriver.sh
+
+SEE ALSO
+
+    git clone http://tddjs.com/code/06-applied-functions-and-closures.git
